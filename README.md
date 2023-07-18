@@ -1,8 +1,8 @@
 # JS Fundamentals III - To-Do List
 
-## 1 Fundamentals To-Do List
+## Fundamentals To-Do List
 
-### This project will evaluate your ability to implement a JavaScript driven to-do list. The goal of this workshop is not to finish quickly, but rather to do the best you can so we can gauge where everyone in the class is at and how well you're absorbing the material. Take your time and don't stress out!
+This project will evaluate your ability to implement a JavaScript driven to-do list. The goal of this workshop is not to finish quickly, but rather to do the best you can so we can gauge where everyone in the class is at and how well you're absorbing the material. Take your time and don't stress out!
 
 ### In this Workshop, you will be:
 
